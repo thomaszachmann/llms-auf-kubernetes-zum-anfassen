@@ -1,12 +1,12 @@
-# LLMs auf Kubernetes zum Anfassen – Begleitcode
+# LLMs on Kubernetes hands-on – Companion Code
 
-Begleitcode zum Buch **LLMs auf Kubernetes zum Anfassen** – Private AI selbst betreiben. Teil der Reihe IT-Trainingslager von Thomas Zachmann.
+Companion code for the book **LLMs on Kubernetes hands-on** (German edition: *LLMs auf Kubernetes zum Anfassen*) – running private AI yourself. Part of Thomas Zachmann's IT Drills series.
 
-Buchseite: https://it-trainingslager.de/buecher/llms-auf-kubernetes
+Book page: https://itdrills.com/books/llms-auf-kubernetes · German edition: https://it-trainingslager.de/buecher/llms-auf-kubernetes
 
-Der Code begleitet das Buch; Erklärungen und Übungen stehen im Buch.
+The code accompanies the book; explanations and exercises are in the book.
 
-## Inhalt
+## Contents
 
 - `chat-rag/`
 - `code-llm/`
@@ -22,14 +22,14 @@ Der Code begleitet das Buch; Erklärungen und Übungen stehen im Buch.
 - `vllm/`
 - `vllm-basics/`
 
-## Schnellstart
+## Quick start
 
 ```bash
 git clone https://github.com/thomaszachmann/llms-auf-kubernetes-zum-anfassen.git
 ```
 
-An Tag 0 kopierst du den Begleitcode nach `~/ki-lab/code` – Details stehen im Kapitel „Tag 0“ des Buchs.
+On Day 0 you copy the companion code to `~/ki-lab/code` – details are in the book's "Day 0" chapter.
 
-## Lizenz
+## License
 
-Code: MIT (siehe LICENSE). Buchtexte, Abbildungen und Cover sind nicht Teil dieses Repos und nicht lizenziert.
+Code: MIT (see LICENSE). Book text, figures and cover are not part of this repo and are not licensed.
